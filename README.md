@@ -10,13 +10,6 @@ This repository is Lab1 to practice branching, committing, and collaborating on 
 
 \## Collaborators
 
-\- \*\*David Petros\*\*: Updated README with collaborator details
+**David Petros**: was added and has updated README with collaborator details
 
-
-
-
-
-Local change made by Bushra Luzon.
-
-
-
+Local change made by Bushra Luzon and Remote change made by Bushra Luzon
